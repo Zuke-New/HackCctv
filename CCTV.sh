@@ -31,5 +31,4 @@ cd ipcs
 ls
 python2 scan.py
 echo "ktik exit untuk kluar"
-exit
-curl -T
+exit⛔
